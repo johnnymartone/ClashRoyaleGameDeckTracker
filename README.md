@@ -1,6 +1,6 @@
 # Clash Royale Deck Tracker
 
-A simple Python GUI application that allows you to view any player's current deck in Clash Royale by searching for their name and clan.
+A simple Python GUI application that allows you to view any player's current deck lineup DURING GAME in Clash Royale by searching for their name and clan.
 
 ## Features
 - Search for players by name and clan
