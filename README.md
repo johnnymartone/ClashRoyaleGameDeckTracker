@@ -12,7 +12,7 @@ A simple Python GUI application that allows you to view any player's current dec
 1. Clone this repository
 ```bash
 git clone https://github.com/johnnymartone/ClashRoyaleGameDeckTracker.git
-cd clash-royale-deck-tracker
+cd ClashRoyalGameDeckTracker
 ```
 
 2. Install required dependencies
